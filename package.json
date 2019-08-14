@@ -11,7 +11,16 @@
   "author": "Leo Hui <leohxj@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@mjolnir/eslint-config": "^0.1.1",
+    "@mjolnir/tsconfig": "^0.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "husky": "^3.0.3",
     "lerna": "^3.16.4",
-    "lerna-changelog": "^0.8.2"
+    "lerna-changelog": "^0.8.2",
+    "lint-staged": "^9.2.1",
+    "prettier": "^1.18.2",
+    "rimraf": "^2.7.0"
   }
 }

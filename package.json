@@ -10,6 +10,15 @@
   "repository": "https://github.com/mjolnirjs/template-monorepo-libs.git",
   "author": "Leo Hui <leohxj@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "jest --watch",
+    "clean": "lerna run clean --parallel",
+    "changelog": "lerna-changelog",
+    "build": "lerna run build",
+    "lint": "lerna run lint --parallel",
+    "test": "jest",
+    "release": "npm run test && npm run build && lerna publish"
+  },
   "devDependencies": {
     "@mjolnir/eslint-config": "^0.1.1",
     "@mjolnir/tsconfig": "^0.0.2",

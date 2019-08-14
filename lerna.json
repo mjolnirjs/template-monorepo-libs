@@ -4,7 +4,6 @@
   "useWorkspaces": true,
   "npmClient": "yarn",
   "changelog": {
-    // TODO: replate
     "repo": "mjolnirjs/template-monorepo-libs",
     "cacheDir": ".changelog"
   }

@@ -1050,10 +1050,10 @@
     eslint-plugin-react "^7.14.3"
     eslint-plugin-react-hooks "^1.7.0"
 
-"@mjolnir/tsconfig@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@mjolnir/tsconfig/-/tsconfig-0.0.2.tgz#2975ba3b2794c95dcfc8e06db359d1ad7ad6a17a"
-  integrity sha512-AR4Y8q+Fwm63WUBDYXFWGpbFY8zPqh2EOljvpjT8M/+AN0oXX7tSZfsSQxqKAp+3GhwuX3hW9wCIcHW8Wl9pyg==
+"@mjolnir/tsconfig@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@mjolnir/tsconfig/-/tsconfig-0.1.0.tgz#a2ccc60dd29aabad78a54773a82e912bae1133ef"
+  integrity sha512-xgwr5rrVYSFlwDJcTF/nJegmLY8ZAxp37+7THneELu4NrM0N9chRdYgJbrNFjC9aj4sva0zPkNZrqruGlgwU6g==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
